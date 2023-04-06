@@ -34,12 +34,12 @@ function renderProducts(productsArray) {
 
 									<div class="price">
 										<div class="price__weight">${item.weight}г.</div>
-										<div class="price__currency">${item.price} ₽</div>
+										<div class="price__currency">${item.price} грн</div>
 									</div>
 								</div>
 
 								<button data-cart type="button" class="btn btn-block btn-outline-warning">
-									+ в корзину
+									+ до корзини
 								</button>
 
 							</div>
