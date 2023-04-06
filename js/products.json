@@ -57,18 +57,42 @@
 	},
 	{
 		"id": 8,
-		"title": "Филадельфия",
+		"title": "Мексикано",
 		"itemsInBox": 6,
 		"weight": 230,
 		"price": 320,
-		"imgSrc": "philadelphia.jpg"
+		"imgSrc": "mexicano.jpeg"
 	},
 	{
 		"id": 9,
-		"title": "Филадельфия",
+		"title": "Неополітано",
 		"itemsInBox": 6,
 		"weight": 230,
 		"price": 320,
-		"imgSrc": "philadelphia.jpg"
+		"imgSrc": "neopolitano.jpeg"
+	},
+	{
+		"id": 10,
+		"title": "Норвезька",
+		"itemsInBox": 6,
+		"weight": 182,
+		"price": 230,
+		"imgSrc": "norvezhskaya.jpeg"
+	},
+	{
+		"id":11,
+		"title": "Трюфельна",
+		"itemsInBox": 6,
+		"weight": 230,
+		"price": 320,
+		"imgSrc": "tryufalini.jpeg"
+	},
+	{
+		"id": 12,
+		"title": "Веганська",
+		"itemsInBox": 6,
+		"weight": 230,
+		"price": 320,
+		"imgSrc": "vegan.jpeg"
 	}
 ]
